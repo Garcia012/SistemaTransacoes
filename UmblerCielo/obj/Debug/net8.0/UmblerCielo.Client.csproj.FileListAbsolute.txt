@@ -1,0 +1,6 @@
+C:\Users\Fellipe Garcia\desktop\umbler\umblercielo.client\obj\Debug\net8.0\UmblerCielo.Client.csproj.AssemblyReference.cache
+C:\Users\Fellipe Garcia\desktop\umbler\umblercielo.client\obj\Debug\net8.0\UmblerCielo.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellipe Garcia\desktop\umbler\umblercielo.client\obj\Debug\net8.0\UmblerCielo.Client.AssemblyInfoInputs.cache
+C:\Users\Fellipe Garcia\desktop\umbler\umblercielo.client\obj\Debug\net8.0\UmblerCielo.Client.AssemblyInfo.cs
+C:\Users\Fellipe Garcia\desktop\umbler\umblercielo.client\obj\Debug\net8.0\UmblerCielo.Client.csproj.CoreCompileInputs.cache
+C:\Users\Fellipe Garcia\desktop\umbler\umblercielo.client\obj\Debug\net8.0\UmblerCielo.Client.MvcApplicationPartsAssemblyInfo.cache

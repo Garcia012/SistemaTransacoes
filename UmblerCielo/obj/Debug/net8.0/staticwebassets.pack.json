@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Fellipe Garcia\\desktop\\umbler\\umblercielo\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Fellipe Garcia\\desktop\\umbler\\umblercielo\\obj\\Debug\\net8.0\\compressed\\td2tyr53un.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Fellipe Garcia\\desktop\\umbler\\umblercielo\\obj\\Debug\\net8.0\\scopedcss\\bundle\\UmblerCielo.styles.css",
+      "PackagePath": "staticwebassets\\UmblerCielo.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Fellipe Garcia\\desktop\\umbler\\umblercielo\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Fellipe Garcia\\desktop\\umbler\\umblercielo\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fellipe Garcia\\desktop\\umbler\\umblercielo\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fellipe Garcia\\desktop\\umbler\\umblercielo\\wwwroot\\images\\mastercard.png",
+      "PackagePath": "staticwebassets\\images\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\Fellipe Garcia\\desktop\\umbler\\umblercielo\\wwwroot\\images\\umbler.png",
+      "PackagePath": "staticwebassets\\images\\umbler.png"
+    },
+    {
+      "Id": "C:\\Users\\Fellipe Garcia\\desktop\\umbler\\umblercielo\\wwwroot\\images\\visa.png",
+      "PackagePath": "staticwebassets\\images\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Fellipe Garcia\\desktop\\umbler\\umblercielo\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Fellipe Garcia\\desktop\\umbler\\umblercielo\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UmblerCielo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UmblerCielo.props",
+      "PackagePath": "build\\UmblerCielo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UmblerCielo.props",
+      "PackagePath": "buildMultiTargeting\\UmblerCielo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UmblerCielo.props",
+      "PackagePath": "buildTransitive\\UmblerCielo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

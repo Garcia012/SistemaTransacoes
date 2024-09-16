@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UmblerCielo",
+    "\\UmblerCielo.Server\\Controllers",
+    "\\UmblerCielo.Server\\Models",
+    "\\UmblerCielo.Server\\Services",
+    "\\UmblerCielo\\Pages",
+    "\\UmblerCielo\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\UmblerCielo\\Pages\\PurchaseForm.razor",
+  "PreviewInSolutionExplorer": false
+}
